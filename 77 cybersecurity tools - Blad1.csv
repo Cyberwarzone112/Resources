@@ -1,0 +1,78 @@
+Number,Type,Name,Description
+1,Multi-paradigm Frameworks,Metasploit,Software for offensive security teams to help verify vulnerabilities and manage security assessments.
+2,Multi-paradigm Frameworks,Armitage,Java-based GUI front-end for the Metasploit Framework.
+3,Multi-paradigm Frameworks,Faraday,"Multiuser integrated pentesting environment for red teams performing cooperative penetration tests, security audits, and risk assessments."
+4,Multi-paradigm Frameworks,ExploitPack,Graphical tool for automating penetration tests that ships with many pre-packaged exploits.
+5,Multi-paradigm Frameworks,Pupy,"Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool."
+6,Multi-paradigm Frameworks,AutoSploit,"Automated mass exploiter, which collects targets by employing the Shodan.io API and programmatically chooses Metasploit exploit modules based on the Shodan query."
+7,Multi-paradigm Frameworks,Decker,"Penetration testing orchestration and automation framework, which allows writing declarative, reusable configurations capable of ingesting variables and using outputs of tools it has run as inputs to others."
+8,Editors,Cyberwarzone.com IOC Editor,A quick IOC editor so you can send IOC without them being clickable.
+9,Network Vulnerability Scanners,Netsparker Application Security Scanner,Application security scanner to automatically find security flaws.
+10,Network Vulnerability Scanners,Nexpose,"Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7."
+11,Network Vulnerability Scanners,Nessus,"Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable."
+12,Network Vulnerability Scanners,OpenVAS,Free software implementation of the popular Nessus vulnerability assessment system.
+13,Network Vulnerability Scanners,Vuls,"Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go."
+14,Static Analyzers,Brakeman,Static analysis security vulnerability scanner for Ruby on Rails applications.
+15,Static Analyzers,cppcheck,Extensible C/C++ static analyzer focused on finding bugs.
+16,Static Analyzers,FindBugs,Free software static analyzer to look for bugs in Java code.
+17,Static Analyzers,sobelow,Security-focused static analysis for the Phoenix Framework.
+18,Static Analyzers,bandit,Security oriented static analyser for python code.
+19,Static Analyzers,Progpilot,Static security analysis tool for PHP code.
+20,Static Analyzers,RegEx-DoS,Analyzes source code for Regular Expressions susceptible to Denial of Service attacks.
+21,Web Vulnerability Scanners,Netsparker Application Security Scanner,Application security scanner to automatically find security flaws.
+22,Web Vulnerability Scanners,Nikto,Noisy but fast black box web server and web application vulnerability scanner.
+23,Web Vulnerability Scanners,Arachni,Scriptable framework for evaluating the security of web applications.
+24,Web Vulnerability Scanners,w3af,Web application attack and audit framework.
+25,Web Vulnerability Scanners,Wapiti,Black box web application vulnerability scanner with built-in fuzzer.
+26,Web Vulnerability Scanners,SecApps,In-browser web application security testing suite.
+27,Web Vulnerability Scanners,WebReaver,"Commercial, graphical web application vulnerability scanner designed for macOS."
+28,Web Vulnerability Scanners,WPScan,Black box WordPress vulnerability scanner.
+29,Web Vulnerability Scanners,cms-explorer,"Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running."
+30,Web Vulnerability Scanners,joomscan,Joomla vulnerability scanner.
+31,Web Vulnerability Scanners,ACSTIS,Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+32,Web Vulnerability Scanners,SQLmate,A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
+33,Web Vulnerability Scanners,JCS,Joomla Vulnerability Component Scanner with automatic database updater from exploitdb and packetstorm.
+34,Network Tools,pig,GNU/Linux packet crafting tool.
+35,Network Tools,Intercepter-NG,Multifunctional network toolkit.
+36,Network Tools,SPARTA,"Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools."
+37,Network Tools,Zarp,Network attack tool centered around the exploitation of local networks.
+38,Network Tools,dsniff,Collection of tools for network auditing and pentesting.
+39,Network Tools,scapy,Python-based interactive packet manipulation program & library.
+40,Network Tools,hping,Command-line oriented TCP/IP packet assembler/analyzer.
+41,Network Tools,WireShark,A network protocol analyzer for Unix and Windows.
+42,Network Tools,Ettercap,Comprehensive suite for man in the middle attacks.
+43,Network Tools,Yersinia,Network tool designed to take advantage of some weakeness in different network protocols.
+44,Network Tools,netsniff-ng,Swiss army knife for your daily Linux network plumbing.
+45,Forensics Tools,Autopsy,Digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
+46,Forensics Tools,binwalk,Firmware Analysis Tool.
+47,Forensics Tools,bulk_extractor,Stream-based forensics tool.
+48,Forensics Tools,chntpw,Utility to reset the password of any user that has a valid local account on your Windows system.
+49,Forensics Tools,cuckoo,Automated Malware Analysis System.
+50,Forensics Tools,dc3dd,Patched version of GNU dd with features for forensics and security.
+51,Forensics Tools,ddrescue,"Data recovery tool, trying hard to rescue data in case of read errors."
+52,Forensics Tools,Dumpzilla,Application to examine the Firefox profile of a suspect during a forensics investigation.
+53,Forensics Tools,extundelete,Utility to recover deleted files from ext3 or ext4 partitions by parsing the journal.
+54,Forensics Tools,Foremost,"Console program to recover files based on their headers, footers, and internal data structures."
+55,Forensics Tools,Galleta,A forensics tool that analyzes Internet Explorer cookies.
+56,Forensics Tools,Guymager,Qt-based forensic imager.
+57,Forensics Tools,iPhone Backup Analyzer,Graphical tool to analyze the contents of iPhone/iPad/iPod backup files.
+58,Forensics Tools,p0f,"Versatile passive OS fingerprinting, and many other tricks."
+59,Forensics Tools,pdf-parser,Python script to parse a PDF document to identify the fundamental elements used in the analyzed file.
+60,Forensics Tools,pdfid,Tool to test a PDF file for exploits.
+61,Forensics Tools,peepdf,Python tool to analyze and explore PDF files to find out if they can be harmful or not.
+62,Forensics Tools,RegRipper,Windows registry forensics tool.
+63,Forensics Tools,Volatility,Advanced memory forensics framework.
+64,Cryptography Tools,Ciphey,"Automated decryption tool that uses natural language processing and artificial intelligence, along with some custom algorithms to decrypt data."
+65,Cryptography Tools,Hashcat,World's fastest and most advanced password recovery utility.
+66,Cryptography Tools,John the Ripper,Fast password cracker.
+67,Cryptography Tools,MASKprocessor,High-performance word generator with a per-position configureable charset.
+68,Cryptography Tools,Ncrack,High-speed network authentication cracker.
+69,Cryptography Tools,PACK,Password analysis and cracking kit.
+70,Cryptography Tools,pyrit,Python tool to pre-compute the data needed by aircrack-ng to break WEP and WPA 1/2 passwords.
+71,Cryptography Tools,RainbowCrack,Hash cracker tool that uses a large-scale time-memory trade-off process.
+72,Cryptography Tools,SQLMap,Automatic SQL injection and database takeover tool.
+73,Cryptography Tools,THC-Hydra,Fast and flexible network login hacking tool.
+74,Cryptography Tools,TrueCrack,Password cracking tool that implements brute force attack on TrueCrypt (now VeraCrypt) volumes.
+75,Cryptography Tools,oclHashcat,GPU-accelerated tool to recover passwords.
+76,Cryptography Tools,RSA SecurID Software Token Converter,Converts a SecurID Software Token exported as an XML file to a Comma Separated Values (CSV) file.
+77,Cryptography Tools,RSACTFTOOL,Multi-purpose RSA and ECC toolkit.
